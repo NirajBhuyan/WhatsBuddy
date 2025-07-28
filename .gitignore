@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# dotenv environment file
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac system files
+.DS_Store
+
+# VSCode config
+.vscode/
+
+# Auth session (if created during runtime)
+.session/
+.session-data/
