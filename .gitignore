@@ -20,3 +20,6 @@ yarn-error.log*
 # Auth session (if created during runtime)
 .session/
 .session-data/
+
+.wwebjs_auth/
+.wwebjs_cache/
